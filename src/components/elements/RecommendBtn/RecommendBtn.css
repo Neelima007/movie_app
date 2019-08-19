@@ -1,0 +1,21 @@
+.rmdb-RecommendBtn {
+    background:grey;
+    width: 30%;
+    min-height: 50px;
+    text-align: center ;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s;
+  
+  }
+  
+  .rmdb-RecommendBtn p {
+    font-family: 'Abel', sans-serif;
+    font-size:25px;
+    padding: 20px;
+  }
+  
+  .rmdb-RecommendBtn:hover {
+    opacity: 0.8;
+  }
+  
